@@ -31,6 +31,8 @@ return {
         "yapf",
         "gopls",
         "goimports",
+        "dockerfile-language-server",
+        "docker-compose-language-service",
         "terraform-ls",
         "ansible-language-server",
         "helm-ls",
