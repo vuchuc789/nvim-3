@@ -14,30 +14,6 @@ return {
   },
 
   {
-    "williamboman/mason.nvim",
-    opts = {
-      ensure_installed = {
-        "lua-language-server",
-        "stylua",
-        "html-lsp",
-        "css-lsp",
-        "prettier",
-        "yaml-language-server",
-        "yamlfmt",
-        "python-lsp-server",
-        "yapf",
-        "gopls",
-        "goimports",
-        "dockerfile-language-server",
-        "docker-compose-language-service",
-        "terraform-ls",
-        "ansible-language-server",
-        "helm-ls",
-      },
-    },
-  },
-
-  {
     "nvim-treesitter/nvim-treesitter",
     opts = {
       ensure_installed = {
